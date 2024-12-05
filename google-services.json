@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "384221827249",
+    "firebase_url": "https://neru-e6e7f-default-rtdb.firebaseio.com",
+    "project_id": "neru-e6e7f",
+    "storage_bucket": "neru-e6e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384221827249:android:3f6be1ad0101cca855d290",
+        "android_client_info": {
+          "package_name": "com.esaneru.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1jIDumwTxE0Fm3EGYe2tvnQUgglyNaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
